@@ -24,6 +24,3 @@ Es un proyecto end-to-end: desde la exploración de datos, preprocesamiento, ent
 - Pandas, NumPy  
 
 ---
-
-## 📂 Estructura del proyecto
-
